@@ -1,0 +1,16 @@
+{
+    "status": "active",
+    "message": "تم الاتصال بنجاح",
+    "login": "true",
+    "update": "false",
+    "version": "1.0",
+    "server": "online",
+
+    "user": "Lilo",
+    "vip": "0",
+    "ban": "0",
+    "expire": "none",
+
+    "download": "https://example.com/app.apk",
+    "notice": "Welcome Lilo! Loader is working."
+}
